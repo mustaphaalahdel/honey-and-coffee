@@ -423,8 +423,8 @@ font-size: 40px;
 }
 
 @media (max-width:641px){
-    body{
-        /* font-size: 12px; */
+    footer{
+        font-size: 12px;
     }
 
     .main-content h2{
